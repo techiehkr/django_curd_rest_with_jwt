@@ -1,2 +1,4 @@
 django
-django djangorestframework
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
